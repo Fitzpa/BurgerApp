@@ -1,14 +1,13 @@
 {
   "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/eat-da-burger.git"
+    "url": "git+https://github.com/Fitzpa/BurgerApp"
   },
   "author": "Louie Fitzpatrick",
   "license": "ISC",
